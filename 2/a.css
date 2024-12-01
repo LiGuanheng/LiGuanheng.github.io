@@ -1,0 +1,12 @@
+@charset "utf-8";
+.a {
+	font-family: "华文楷体";
+	font-size: 18px;
+	color: #000;
+}
+.b {
+	font-family: 华文楷体;
+}
+.c {
+	font-family: MS Serif, New York, serif;
+}
